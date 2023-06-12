@@ -1,0 +1,19 @@
+{
+  "name": "clasesdeapoyo-6",
+  "version": "1.0.0",
+  "description": "server express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandrojoyero/clase6-express.git"
+  },
+  "author": "comosion 20",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandrojoyero/clase6-express/issues"
+  },
+  "homepage": "https://github.com/Alejandrojoyero/clase6-express#readme"
+}
